@@ -1,6 +1,8 @@
 # Student Database Management System
 
-A menu-driven Student Database Management System developed in C using a Singly Linked List. The project demonstrates dynamic memory allocation and fundamental data structure operations for managing student records.
+A menu-driven Student Database Management System developed in **C** using a **Singly Linked List**. This project demonstrates dynamic memory allocation and linked list operations for managing student records efficiently.
+
+---
 
 ## Features
 
@@ -10,23 +12,28 @@ A menu-driven Student Database Management System developed in C using a Singly L
 - Display All Student Records
 - Sort Records by Name
 - Sort Records by Marks
-- Reverse Linked List
-- Count Total Records
-- Delete All Records
-- Dynamic Memory Allocation using Linked List
+- Reverse the Linked List
+- Count Total Student Records
+- Delete All Student Records
+
+---
 
 ## Data Structure Used
 
 - Singly Linked List
 
-## Technologies
+---
+
+## Technologies Used
 
 - C Programming
 - Data Structures
 - Dynamic Memory Allocation
-- GCC
+- GCC Compiler
 - Linux
 - Makefile
+
+---
 
 ## Project Structure
 
@@ -39,11 +46,15 @@ Student-Database-Management-System/
 └── .gitignore
 ```
 
+---
+
 ## Build
 
 ```bash
 make
 ```
+
+---
 
 ## Run
 
@@ -51,23 +62,33 @@ make
 ./student_db
 ```
 
+---
+
 ## Clean
 
 ```bash
 make clean
 ```
 
-## Learning Outcomes
+---
 
-- Singly Linked List implementation
-- Dynamic Memory Allocation using `malloc()` and `free()`
-- Record Management using CRUD operations
-- Sorting Algorithms
+## Concepts Covered
+
+- Singly Linked List
+- Dynamic Memory Allocation (`malloc()` and `free()`)
+- Record Management
+- Sorting
+- Pointer Manipulation
+- Menu Driven Programming
 - Modular Programming using Header Files
-- Makefile-based Compilation
+
+---
 
 ## Author
 
 **Mokshang Shah**
 
 Embedded Systems Engineer | Embedded C | ARM7 | Linux System Programming
+
+GitHub: https://github.com/Mokshang07
+LinkedIn: https://www.linkedin.com/in/mokshang-shah
